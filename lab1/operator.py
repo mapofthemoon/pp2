@@ -1,0 +1,14 @@
+print (10*5)
+
+print(10/2)
+
+fruits = ["apple","banana"]
+if "apple" in fruits:
+    print("yes, apple is fruit")
+
+if 5 != 10:
+  print("5 and 10 are not equal")
+
+
+if 5 == 10 or 4 == 4:
+    print("atleast one statement is true")
